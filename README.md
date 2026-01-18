@@ -4,6 +4,8 @@ This project predicts student exam scores based on various demographic and acade
 
 ![Streamlit Demo](https://img.shields.io/badge/Streamlit-Deployed-blueviolet?style=flat-square) ![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square) ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 
+🔗 *Live Demo:* [Click here to view](https://student-exam-score-predictor-devansh.streamlit.app/)
+
 ---
 
 ## 📊 Features
